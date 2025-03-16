@@ -1,2 +1,2 @@
-# CV_intro_projects
+# Traffic Object Detector 
 Basic object detection and tracking using opencv2
